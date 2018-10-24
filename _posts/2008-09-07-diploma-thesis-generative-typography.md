@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Diploma Thesis "Genereative Typography"
+title: Diploma Thesis "Generative Typography"
 ---
 
 Here you can download my diploma thesis (available in German only): 
